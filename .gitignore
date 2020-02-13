@@ -1,0 +1,26 @@
+nupkg/
+project.lock.json
+.DS_Store
+node_modules/
+# Build
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+wwwroot/
+
+# IDE
+.idea
+.vscode
+.vs/
+
+# User specific
+*.suo
+*.user
+x64/
+x86/
+build/
+
+/src/Presentation/Bucketlist.Api/Bucketlist.Api.xml
